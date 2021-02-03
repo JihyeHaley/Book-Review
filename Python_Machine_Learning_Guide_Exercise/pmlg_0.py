@@ -1,1 +1,0 @@
-import numpy as numpy # 관용적 표현
